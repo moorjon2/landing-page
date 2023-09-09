@@ -1,0 +1,24 @@
+* {
+    padding: 0 0;
+    margin: 0;
+}
+
+.header {
+    color: white;
+    background-color: #1F2937;
+}
+
+.headerNav {
+    display: flex;
+    justify-content: space-between;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
