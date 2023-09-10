@@ -6,7 +6,7 @@
 
 .header {
     color: white;
-    background-color: #1F2937;
+    background-color: #512260;
 }
 
 .headerNav {
@@ -60,7 +60,7 @@ img {
 
 button {
     margin-top: 20px;
-    background-color: #3882F6;
+    background-color: #8e4da3;
     color: white;
     padding: 5px 20px;
     border-radius: 8px;
@@ -70,12 +70,12 @@ button {
 .h2 {
     font-size: 36px;
     font-weight: bolder;
-    color: #1F2937;
+    color: #512260;
     margin: 50px;
 }
 
 .boxes {
-    color: #1F2937;
+    color: #512260;
     font-size: 18px;
     display: flex;
     justify-content: center;
@@ -85,7 +85,7 @@ button {
 .square {
     width: 150px;
     height: 150px;
-    border: 4px solid #3882F6;
+    border: 4px solid #8e4da3;
     border-radius: 10px;
 }
 
@@ -107,12 +107,12 @@ button {
 
 .quote {
     font-size: 36px;
-    color: #1F2937;
+    color: #512260;
     font-style: italic;
 }
 
 .author {
-    color: #1F2937;
+    color: #512260;
     font-weight: bold;
     align-self: flex-end;
 }
@@ -124,14 +124,14 @@ button {
 .call-action {
     display: flex;
     justify-content: space-around;
-    background-color: #3882F6;
+    background-color: #8e4da3;
     border-radius: 8px;
     color: #F9FAF8;
     padding: 33px 77px;
 }
 
 .call-action-button {
-    background-color: #3882F6;
+    background-color: #8e4da3;
     color: white;
     padding: 5px 20px;
     border-radius: 8px;
@@ -139,7 +139,7 @@ button {
 }
 
 .footer {
-    background-color: #1F2937;
+    background-color: #512260;
     color: #F9FAF8;
     align-items: flex-end;
     padding: 20px;
