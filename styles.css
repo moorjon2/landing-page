@@ -89,6 +89,15 @@ button {
     border-radius: 10px;
 }
 
+.box1pic, .box2pic, .box3pic, .box4pic {
+    max-width: inherit;
+    max-height: inherit;
+    height: inherit;
+    width: inherit;
+    object-fit: cover;
+    margin-left: 0px;
+}
+
 .section2 {
     margin: 50px;
     text-align: center;
@@ -109,12 +118,13 @@ button {
     font-size: 36px;
     color: #512260;
     font-style: italic;
+    align-self: center;
 }
 
 .author {
     color: #512260;
     font-weight: bold;
-    align-self: flex-end;
+    align-self: center;
 }
 
 .section4 {
